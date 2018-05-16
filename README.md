@@ -2,9 +2,9 @@
 Chatbot based on intents
 
 
-There are 3 files in this repositiry 
-"intents.json" file is for holding the chat conversations
-"generate_data.py" to train you neural network on the give dataset
+There are 3 files in this repositiry: 
+"intents.json" file is for holding the chat conversations,
+"generate_data.py" to train you neural network on the give dataset,
 And the last "chat_model.py" for creating the responses for the question asked
 
 to use the wikipedia, news, google, and weather, which are working online you need to specify the following words
